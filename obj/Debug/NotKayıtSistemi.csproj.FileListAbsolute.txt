@@ -1,0 +1,13 @@
+C:\Users\Gizem\source\repos\NotKayıtSistemi\bin\Debug\NotKayıtSistemi.exe.config
+C:\Users\Gizem\source\repos\NotKayıtSistemi\bin\Debug\NotKayıtSistemi.exe
+C:\Users\Gizem\source\repos\NotKayıtSistemi\bin\Debug\NotKayıtSistemi.pdb
+C:\Users\Gizem\source\repos\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.AssemblyReference.cache
+C:\Users\Gizem\source\repos\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gizem\source\repos\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmGiriş.resources
+C:\Users\Gizem\source\repos\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmÖğrenciDetay.resources
+C:\Users\Gizem\source\repos\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmÖğretmenDetay.resources
+C:\Users\Gizem\source\repos\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.Properties.Resources.resources
+C:\Users\Gizem\source\repos\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\Gizem\source\repos\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Gizem\source\repos\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.exe
+C:\Users\Gizem\source\repos\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.pdb
